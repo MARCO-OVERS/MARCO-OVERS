@@ -9,12 +9,18 @@ I'm **`Marco R`**, an economist from Colombia with a deep interest in technology
 <!-- <a target="white"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-rol%C3%B3n-oliveros-133b6926a/)
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  You can contact me here:
 </p>
 
 <p align="center">
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-rol%C3%B3n-oliveros-133b6926a/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marco_overs/)
+
 </p>
 
 
